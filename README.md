@@ -14,13 +14,6 @@
 
 ---
 
-### 🚀 My Goals & Expectations for This Course  
-- Strengthen my understanding of **software design and architecture** 🧠  
-- Collaborate effectively using **Git & GitHub workflows** 🤝  
-- Improve in **modern development frameworks** like React, Node.js, and Flutter ⚙️  
-- Gain real-world insights into **scalable software engineering practices** 🌍  
-
----
 
 ### 🧰 Tech Stack  
 
