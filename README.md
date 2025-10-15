@@ -1,6 +1,5 @@
 ![Header](./github-header.png)
 
-<h1 align="center">Hi there 👋, I'm Mirza Azhan</h1>
 <h3 align="center">💻 Software Engineering Student | University of Malaya</h3>
 
 ---
