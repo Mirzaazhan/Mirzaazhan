@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Mirza Azhan</h1>
-<h3 align="center">💻 Software Engineering Student | University of Malaya</h3>
+![Header](./github-header.png)
+
 
 ---
 
@@ -48,11 +48,6 @@ As a Software Engineering student, I’m hoping this course helps me:
 
 ---
 
-### 🧑‍💻 GitHub Stats  
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mirzaazhan&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaazhan&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -69,29 +64,4 @@ As a Software Engineering student, I’m hoping this course helps me:
 
 ---
 
-### 🧩 Customize This Profile
-You can easily personalize this by:
-- Changing the theme in GitHub Stats (e.g., `tokyonight`, `merko`, `gruvbox`)  
-- Adding custom emojis 🎨  
-- Embedding your own banner (e.g., `![Header](banner.png)`)  
-- Replacing project links with real GitHub repositories  
-
----
-
-⭐ **Feel free to check out my repositories, contribute, or drop a star if you like my projects!**
-
-
-<!--
-**Mirzaazhan/Mirzaazhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting! Feel free to check out my repositories, contribute, or drop a star if you like my projects!**
